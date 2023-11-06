@@ -6,5 +6,6 @@
   </head>
   <body>
     <h1>Hello World!</h1>
+    <a href="/Chess/ChessBoard"> <button >ChessBoard</button> </a>
   </body>
 </html>
