@@ -1,0 +1,14 @@
+title: Basic Chess
+description: "trying to learn oop by creating chess"
+owner_name: Trystan?
+github_username: trystan-schmits
+baseurl: "/Chess"
+#remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/dinky@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/hacker@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme
+future: true
